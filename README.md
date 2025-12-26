@@ -1,4 +1,4 @@
-#Salman Shekh
+## Hey , I'm Salman Shekh
 
 **Software Engineer & Security Engineer**  
 Learning by building, breaking, and securing systems
@@ -6,17 +6,11 @@ Learning by building, breaking, and securing systems
 ## 🧠 Engineering Focus
 - Backend Software Engineering (APIs, services, system design)
 - Security Engineering (offense, defense, infrastructure hardening)
-- Linux & Systems Internals
 - Networking & Internet Architecture
 
-## 💻 Languages & Tools
-- **Python** — automation, security scripting, tooling
-- **Go** — backend services, systems programming
-- **Linux** — administration, hardening, internals
-- Git, Bash, Docker (learning & applying)
-
 ## 🛠️ What I’m Working On
-- Building backend services with Go
+- Building Full Stack Applications
+- AI & ML Projects
 - Writing Python scripts for security automation
 - Developing a personal cybersecurity lab
 - Learning how production systems fail, scale, and recover
