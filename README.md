@@ -1,25 +1,9 @@
-## Hey , I'm Salman Shekh
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/dbbf8844-fbfa-42ba-89ca-96b86e6579ce" />
 
-**Software Engineer & Security Engineer**  
-Learning by building, breaking, and securing systems
 
-## Engineering Focus
-- Backend Software Engineering (APIs, services, system design)
-- Security Engineering (offense, defense, infrastructure hardening)
-- Networking & Internet Architecture
+---
 
-## What I’m Working On
-- Building Full Stack Applications
-- AI & ML Projects
-- Writing Python scripts for security automation
-- Developing a personal cybersecurity lab
-- Learning how production systems fail, scale, and recover
+###  Connect & Explore
 
-##  Security Interests
-- Infrastructure & network security
-- Offensive & defensive security techniques
-- Threat modeling and attack surface analysis
-- Privacy, anonymity, and system hardening
-
-##  Philosophy
-Strong fundamentals → real projects → break things → fix them → document everything
+[![Learn About Security](https://img.shields.io/badge/Learn_About_Security-4A154B?style=for-the-badge&logo=globe&logoColor=white)](https://www.protectyouroil.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmanshekh/)
